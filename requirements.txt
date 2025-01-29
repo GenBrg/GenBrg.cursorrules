@@ -9,6 +9,7 @@ duckduckgo-search>=7.2.1
 openai>=1.59.8 # o1 support
 anthropic>=0.42.0
 python-dotenv>=1.0.0
+g4f>=0.2.0  # Free LLM API alternative
 
 # Testing
 unittest2>=1.1.0
